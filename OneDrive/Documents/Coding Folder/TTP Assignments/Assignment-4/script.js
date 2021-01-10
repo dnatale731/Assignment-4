@@ -39,12 +39,10 @@ submit.addEventListener("click", function() {
     }
 })
 
-
-
 if(button1Pressed && button2Pressed) {
-    //Original plan didn't work, will try something else when doing CSS
+    //Will try something when doing CSS
 }
 
 if(hovered) {
-    //Original plan didn't work, will try something else when doing CSS
+    //Will try something when doing CSS
 }
