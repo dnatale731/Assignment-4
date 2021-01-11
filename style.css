@@ -1,0 +1,29 @@
+ * {
+    margin: 0;
+    padding: 0;
+ }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.input label {
+    display: inline-flex;
+    width: 80px;
+}
+
+#dontHover {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
